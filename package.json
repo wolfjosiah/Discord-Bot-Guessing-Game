@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot-guessing-game",
+  "version": "1.0.0",
+  "description": "A small game for a friend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolfjosiah/Discord-Bot-Guessing-Game.git"
+  },
+  "author": "Josiah Wolf (aka Princess Fruitcake / wolfjosiah)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolfjosiah/Discord-Bot-Guessing-Game/issues"
+  },
+  "homepage": "https://github.com/wolfjosiah/Discord-Bot-Guessing-Game#readme"
+}
